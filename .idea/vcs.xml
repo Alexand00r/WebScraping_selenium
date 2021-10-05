@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LR_async_ips" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Load_Ratings_Aggregate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Load_Ratings_Async" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Load_Ratings_Async_pyppeteer" vcs="Git" />
+  </component>
+</project>
